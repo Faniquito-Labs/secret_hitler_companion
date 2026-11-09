@@ -44,10 +44,10 @@ Features may change rapidly until the stable version.
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/danieldcastro/secret-hitler-companion.git
+git clone https://github.com/Faniquito-Labs/secret_hitler_companion.git
 
 # Go to the project folder
-cd secret-hitler-companion
+cd secret_hitler_companion
 
 # Install dependencies
 flutter pub get
