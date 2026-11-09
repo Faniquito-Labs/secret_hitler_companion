@@ -44,10 +44,10 @@ Funcionalidades podem mudar rapidamente até a versão estável.
 ### Passos
 ```bash
 # Clone o repositório
-git clone https://github.com/danieldcastro/secret-hitler-companion.git
+git clone https://github.com/Faniquito-Labs/secret_hitler_companion.git
 
 # Acesse a pasta
-cd secret-hitler-companion
+cd secret_hitler_companion
 
 # Instale as dependências
 flutter pub get
@@ -128,10 +128,10 @@ Funcionalidades podem mudar rapidamente até a versão estável.
 ### Passos
 ```bash
 # Clone o repositório
-git clone https://github.com/danieldcastro/secret-hitler-companion.git
+git clone https://github.com/Faniquito-Labs/secret_hitler_companion.git
 
 # Acesse a pasta
-cd secret-hitler-companion
+cd secret_hitler_companion
 
 # Instale as dependências
 flutter pub get
